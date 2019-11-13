@@ -30,7 +30,7 @@ function getKelas() {
 async function init() {
     await tambahSiswa({
         nis: 3,
-        nama: 'Bambang'
+        nama: ' yudi'
     })
     await getKelas()
 }
